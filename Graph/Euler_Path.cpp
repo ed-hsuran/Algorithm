@@ -24,7 +24,7 @@ void travel(int prev){
 	traversal.push(prev);
 }
 
-void Euler_Circuit(){
+void Euler_Path(){
 	while (!traversal.empty()){
 		cout << traversal.top() << ' ';
 		traversal.pop();
@@ -38,5 +38,5 @@ int main(){
 	add_edge(3, 5);
 	add_edge(1, 2);
 	travel(1);
-	Euler_Circuit();
+	Euler_Path();
 }
