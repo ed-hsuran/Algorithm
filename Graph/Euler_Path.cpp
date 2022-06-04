@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//歐拉路徑--最小字典序範例
+//Hierholzer--歐拉路徑
+
+//最小字典序範例
 
 //無向，只存在0或2點之出入度為奇數，其餘皆為偶數
 //有向，所有點出度 = 入度
