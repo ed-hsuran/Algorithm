@@ -1,4 +1,4 @@
-//參考網址 維基百科
+//參考網址 維基百科 貝爾曼-福特演算法
 //https://zh.wikipedia.org/zh-tw/%E8%B4%9D%E5%B0%94%E6%9B%BC-%E7%A6%8F%E7%89%B9%E7%AE%97%E6%B3%95
 
 #include <bits/stdc++.h>
