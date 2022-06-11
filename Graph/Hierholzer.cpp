@@ -1,3 +1,6 @@
+//參考網址 Yui Huang 演算法學習筆記
+//https://yuihuang.com/tioj-1084/
+
 #include <bits/stdc++.h>
 using namespace std;
 
